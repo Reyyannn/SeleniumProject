@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-04T22:02:42 CDT" name="Default suite" finished-at="2023-05-04T22:02:46 CDT" duration-ms="4700">
+    <groups>
+    </groups>
+    <test started-at="2023-05-04T22:02:42 CDT" name="Default test" finished-at="2023-05-04T22:02:46 CDT" duration-ms="4700">
+      <class name="seleniumProject.ScreenshotTestR17">
+        <test-method signature="testcase()[pri:0, instance:seleniumProject.ScreenshotTestR17@7bd4937b]" started-at="2023-05-04T22:02:42 CDT" name="testcase" finished-at="2023-05-04T22:02:46 CDT" duration-ms="4641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- seleniumProject.ScreenshotTestR17 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
